@@ -1,0 +1,215 @@
+* {
+    margin: auto;
+}
+
+.totalbox { 
+	padding: 0; 
+	margin: 0; 
+    margin-top: 60px;
+	box-sizing: 1400x890; 
+    border: 5px solid red;
+    background-color: rgb(33, 33, 211); 
+} 
+
+
+.sms{
+    text-align: center;
+    font-size: 20px;
+}
+.example1{
+    
+    box-sizing: content-box;  
+    margin-block-start: 300px;
+    margin-left: 180px;
+    margin-top: 60px;
+    width: 1000px;
+    height: 2px;
+    padding: 30px; 
+}
+.example2{
+    margin-top: 10px;
+}
+.example3{
+    box-sizing: content-box; 
+    margin: 100px;
+    margin-top: 120px;
+    width: 500px;
+    height: 450px;
+    padding: 30px;  
+    margin-bottom: 6%;
+
+}
+
+
+.example4{
+    box-sizing: content-box; 
+    margin-left: 800px;
+    margin-top: -570px;
+    width: 500px;
+    height: 500px;
+    padding: 30px;  
+    background-color: white;
+    border: 1px solid rgb(78, 53, 53);
+    margin-bottom: 3%;
+
+}
+.signins{
+    margin-left: 30%;
+    margin-top: 15px;
+
+}
+.signin{
+    background-color: white;
+    color: rgb(19, 188, 213);
+}
+    /* box-sizing: content-box; 
+    margin-left: 800px;
+    margin-top: -570px;
+    width: 500px;
+    height: 400px;
+    padding: 30px;  
+    background-color: white;
+    border: 5px solid red; */
+
+.one{
+    padding: 8%;
+    color: white;
+}
+.two{
+    padding-left: 140px;
+    color: rgb(199, 191, 191);
+
+}
+.three{
+    padding-left: 120px;
+    color: white;
+
+}
+.four{
+    padding-left: 100px;
+    color: white;
+
+}
+.five{
+    padding-left: 40px;
+    color: white;
+
+}
+.six{
+    border-radius: 17px;
+    padding-left: 7px  6px;
+    margin-left: 0px;
+    height: 10px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 15px;
+background-color: rgb(212, 27, 113);
+margin: 4px 2px;
+cursor: pointer;
+}
+.horg{
+    margin: right 50%; 
+}
+.hr-lines{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+    margin-top: 4%;
+  }
+  
+  .hr-lines:before{
+    content:" ";
+    height: 1px;
+    width: 200px;
+    background: rgb(9, 9, 9);
+    position: absolute;
+    top: 10%;
+    left: 0;
+  }
+  
+  .hr-lines:after{
+    content:" ";
+    height: 1px;
+    width: 200px;
+    background: rgb(8, 8, 8);
+    position: absolute;
+    top: 20%;
+    right: 0;
+  }
+  /* .email{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+  }
+    /* width: 300px;
+    height: 10px;
+    border-radius: 17px;
+    padding-left: 7px;
+    margin-left: 4%; 
+  
+  .password{
+    border-radius: 15px;
+    padding-left: 7px;
+
+  } */
+  .signup{
+    width: 200px;
+    background-color: rgb(5, 151, 243);
+    color: white;
+    margin-top: -4005%;
+    margin-left: 30%;
+    height: 40px;
+    text-align: center;
+    border-radius: 17px;
+    padding-left: 7px;
+    
+  } 
+.login{
+    width: 200px;
+    background-color: rgb(6, 35, 180);
+    color: white;
+    height: 40px;
+    text-align: center;
+    border-radius: 17px;
+    padding-left: 7px;
+    margin-left: 30%;
+}
+.text{
+    font-size: 70px;
+color: white;
+}
+.text1{
+    font-size: 20px;
+    margin-top: 20px;
+    color:antiquewhite;
+}
+.text2{
+    margin-left: 20px;
+    margin-top: 30px;
+width: 100px;   
+height: 20px;
+border-radius: 50%;
+    color: azure;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(240, 72, 128);
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border-color: rgb(87, 77, 77);
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+}
+#logs{
+    width: 300px;
+    height: 30px;
+    border-color: rgb(90, 82, 82);
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;}
